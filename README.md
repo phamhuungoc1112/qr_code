@@ -4,6 +4,10 @@
 
 A modern, lightweight QR code generator built with [Next.js](https://nextjs.org/). Instantly create customizable QR codes for URLs, text, contact info, and more.
 
+## 🚀 Check out the live demo: [https://qrcode-generator.xyz/](https://qrcode-generator.xyz/)
+
+> Try generating your own QR code and see the tool in action!
+
 ## 🚀 Features
 
 - ✅ Generate QR codes instantly from any input
